@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dynamic String HTML Page with AWS Lambda and API Gateway
 
 ## Project Overview
@@ -33,3 +34,7 @@ Testing the Solution
 Access the API Gateway URL.
 Modify the dynamic string in AWS SSM.
 Refresh the page to see the updated string.
+=======
+# aws-dynamic-page
+ technical_assessment_arqiva
+>>>>>>> fcf27d885a7a853aa54bb5b8b53e1b93ffd0c5ba
