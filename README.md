@@ -36,5 +36,5 @@ Modify the dynamic string in AWS SSM.
 Refresh the page to see the updated string.
 =======
 # aws-dynamic-page
- technical_assessment_arqiva
+ Dynamic content change - terraform
 >>>>>>> fcf27d885a7a853aa54bb5b8b53e1b93ffd0c5ba
